@@ -15,7 +15,7 @@ Offline maps and turn-by-turn navigation made for E Ink: one still picture per t
 - A black-and-white map with hatched parks and dotted water, drawn once when you lift your finger.
 - Saved places (home, work, doctor, service, other); a long press on the map opens any place.
 - Radio while driving: play, pause and next station of the Radio app, without leaving the drive.
-- Maps for any country or region, downloaded only on a tap and only while the device is unlocked; a check for newer maps at most once a day.
+- Maps for any country or region: find one by name or browse the list, then download it with a tap, only while the device is unlocked; your downloaded maps have a list of their own. A check for newer maps at most once a day.
 - Everything that costs battery is off by default: guidance with the screen locked, the screen changing by itself and keeping the screen on are separate switches, only from Go to the end of the drive.
 
 **Languages:** English, Croatian, German, French, Spanish, Italian, Portuguese, Dutch, Polish, Czech.
